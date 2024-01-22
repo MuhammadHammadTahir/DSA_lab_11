@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1703931014 source:d:\dsa  projects\lab_11_hashing\main.cpp
+	<iostream>
+	<Hash.h>
+
+1705275698 source:d:\dsa  projects\lab_11_hashing\src\hash.cpp
+	"Hash.h"
+	<iostream>
+	<list>
+
+1703931183 d:\dsa  projects\lab_11_hashing\include\hash.h
+	<list>
+	<string>
+

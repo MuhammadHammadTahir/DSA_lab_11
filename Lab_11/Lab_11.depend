@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703926774 source:d:\dsa  projects\lab_11\main.cpp
+	<iostream>
+	<list>
+	<string>
+
